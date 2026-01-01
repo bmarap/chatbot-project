@@ -6,7 +6,7 @@ This project is a chatbot that is designed to help answer questions about the op
 ## Introduction
 
 This project was mainly designed for a homework assignment for the course MTH409 in Istanbul Technical University. 
-**Selected Topic (X):** OpenWebUI Documentation
+**Selected Topic:** OpenWebUI Documentation
 **Purpose:** To provide correct and up-to-date answers to users' questions about OpenWebUI installation, configuration, and features.
 
 ---
