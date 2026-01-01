@@ -12,7 +12,8 @@ This project was mainly designed for a homework assignment for the course MTH409
 ---
 
 ## Demo
-![alt text](demo.gif)
+[demo.webm](https://github.com/user-attachments/assets/d95db493-711b-44c2-ad4c-5562819cd4da)
+
 ---
 
 ## Chatbot Flow Design
