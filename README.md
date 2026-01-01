@@ -62,6 +62,19 @@ This project uses the RAG (Retrieval-Augmented Generation) architecture. Two bas
 
 ---
 
+## 📊 Model Performance Evaluation
+
+The RAG pipeline was evaluated using the **Ragas** library, which uses an LLM to judge the quality of generated answers.
+
+| Metric | Score | Description |
+|--------|-------|-------------|
+| **Faithfulness** | **1.00** | Measures if the answer is derived purely from the retrieved context (no hallucinations). |
+| **Answer Relevancy** | **0.96** | Measures how relevant the answer is to the user's question. |
+
+*Evaluation performed on a sample dataset using Google Gemini as the judge LLM.*
+
+---
+
 ## Application Interface
 
 The interface is prepared using **Streamlit**.
